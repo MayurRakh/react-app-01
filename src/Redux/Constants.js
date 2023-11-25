@@ -1,6 +1,6 @@
 //+++++++++ URL +++++++++++++
 // export const URL = "http://mynodeserverbeanstack-env.eba-c6j5cdwn.ap-south-1.elasticbeanstalk.com";
-export const URL = "http://app-backend:6001";
+export const URL = "http://localhost:6001";
 // export const URL = "http://3.111.41.227:6001";
 
 //+++++++++ Constants +++++++++++++
