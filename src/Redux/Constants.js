@@ -1,8 +1,9 @@
 //+++++++++ URL +++++++++++++
 // export const URL = "http://mynodeserverbeanstack-env.eba-c6j5cdwn.ap-south-1.elasticbeanstalk.com";
 // export const URL = "http://52.66.247.7:6001";
-export const URL = "http://localhost:6001";
+// export const URL = "http://localhost:6001";
 
+export const URL = "http://3.109.123.153:31907"
 //+++++++++ Constants +++++++++++++
 
 export const USER_CLEAR_STATE = "USER_CLEAR_STATE";
